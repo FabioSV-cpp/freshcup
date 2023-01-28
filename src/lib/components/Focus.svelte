@@ -5,7 +5,7 @@
     if (top) {
       setTimeout(() => {
         top.scrollIntoView({ behavior: 'smooth' });
-      }, 200);
+      }, 251);
     }
   };
 </script>

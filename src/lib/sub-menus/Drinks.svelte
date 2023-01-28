@@ -18,7 +18,7 @@
   <Title on:click={toggle} on:keydown={toggle}>Drinks Menu</Title>
 
   {#if open}
-    <div transition:slide={{ duration: 150 }}>
+    <div transition:slide={{ duration: 250 }}>
       <!-- Recommended Smoothies -->
       <Heading second="price">Recommended Smoothies</Heading>
 
