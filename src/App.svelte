@@ -24,7 +24,7 @@
   </article>
 
   <footer class='flex items-center gap-x-1 w-full justify-center h-12 mt-auto mb-4'>
-    <a href="https://www.instagram.com/fresh.cup.coffee"><img src={insta} alt='instagram' class='h-6'/></a>
-    <a href="https://www.facebook.com/people/Fresh-Cup/100088574150346"><img src={facebook} alt='facebook' class='h-8'></a>
+    <a href="https://www.instagram.com/fresh.cup.coffee"><img src={insta} alt='instagram' class='h-8'/></a>
+    <a href="https://www.facebook.com/people/Fresh-Cup/100088574150346"><img src={facebook} alt='facebook' class='h-10'></a>
   </footer>
 </main>
