@@ -84,6 +84,20 @@
         </ListEntry>
       </MenuList>
 
+      <MenuList title="Pita Pockets or Wraps">
+        <ListEntry price="R80">
+          1. Grilled chicken strips, caramelised onions and red peppers, cucumber, feta cheese and lettuce
+        </ListEntry>
+
+        <ListEntry price="R70">
+          2. Grilled chorico, caramelised onions and red peppers, cucumber and lettuce
+        </ListEntry>
+
+        <ListEntry price="R80">
+          3. Halloumi cheese, caramelised onions and red peppers, cucumber and lettuce with a sweet chilli sauce
+        </ListEntry>
+      </MenuList>
+
       <div class="mt-4" />
       <MenuList title="Choose ingredients & make your own" />
 
