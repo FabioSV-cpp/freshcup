@@ -144,9 +144,6 @@
 
             <small>Pita bread</small>
             <small>R12</small>
-
-            <small>Plain croissant</small>
-            <small>R20</small>
           </div>
         </Table>
 
@@ -168,6 +165,9 @@
 
             <small>Mozzarella</small>
             <small>R15</small>
+
+            <small>Bacon</small>
+            <small>R30</small>
           </div>
         </Table>
       </div>
