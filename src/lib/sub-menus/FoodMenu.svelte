@@ -139,9 +139,6 @@
             <small>Ciabatta</small>
             <small>R10</small>
 
-            <small>Portuguese roll</small>
-            <small>R10</small>
-
             <small>Pita bread</small>
             <small>R12</small>
           </div>
