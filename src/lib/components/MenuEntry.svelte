@@ -7,7 +7,7 @@
 
 <section class="grid grid-cols-8 w-full text-xs pt-2 font-cavolini font-bold">
   <div class="col-span-7">
-    <p class="uppercase text-base">{title}</p>
+    <p class="uppercase">{title}</p>
     <p class="special-font font-normal"><slot /></p>
   </div>
 
